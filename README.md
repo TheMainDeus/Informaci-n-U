@@ -55,7 +55,7 @@ The framework is designed so other groups can validate or challenge its predicti
 If you use or discuss this work, please cite it as:
 
 **Askel, L. V. (2025). Unified Multiscale Field Framework. GitHub Repository.**  
-Link: *(add your repo link once it's public)*
+
 
 
 
