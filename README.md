@@ -1,7 +1,7 @@
 # Unified Multiscale Field Framework
 
-**Author:** Dr. L. Vardien Askel
-**Status:** Open Research Draft (v0.3)
+**Author:** Dr. L. Vardien Askel  
+**Status:** Open Research Draft (v0.3)  
 **Contact:** themaindeus@proton.me
 
 ---
@@ -30,12 +30,12 @@ The repository is organized so that every component (theoretical, numerical, and
 ## Repository Structure
 
 ```
-/text/          — Manuscript: Lagrangian, equations of motion, definitions  
-/numerics/      — Numerical procedures (mesh, integrators, FFT, noise)  
-/experiments/   — Experimental ranges, calibration methods, observables  
-/examples/      — Sample parameter sets and predicted measurable quantities  
-/LICENSE        — License information  
-/README.md      — Overview and documentation (this file)  
+text/          – Manuscript: Lagrangian, equations, definitions  
+numerics/      – Numerical procedures (mesh, integrators, FFT, noise)  
+experiments/   – Experimental ranges, calibration methods, observables  
+examples/      – Sample parameter sets and predicted quantities  
+LICENSE        – License information  
+README.md      – Overview and documentation 
 ```
 
 Each folder is self-contained and designed to support independent reproduction efforts.
@@ -65,6 +65,12 @@ The framework includes:
 * Noise-generation workflows for simulation and experiment
 
 These ensure that results can be cross-checked by independent groups.
+
+---
+
+## Technical Manuscript
+
+See the file `Dynamic_Unified_Field_Project1.md` for the complete mathematical formulation of the model.
 
 ---
 
